@@ -68,9 +68,12 @@ The setup and installation steps will be updated once the project development pr
 
 ### Team Members
 
-- Member 1
-- Member 2
-- Member 3
+- Lester Molinares
+- Dustin Shaddix
+- Thomas Gresco
+- Adam Glantz
+- Juliano Miguel Lacson
+- Darrell Reives
 
 ---
 
